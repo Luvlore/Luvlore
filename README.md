@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luvlore
-- 👀 I’m interested in games, animes, programming and and read in the free time!
+- 👀 I’m interested in games, animes, programming and read in the free time!
 - 🌱 I’m currently learning Python 3
 - 💞️ I'm looking to collaborate on the community as soon as possible
 - 📫 How to reach me: Discord Luvlore#5010
