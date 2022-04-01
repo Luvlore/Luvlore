@@ -1,4 +1,4 @@
-[![banner](./banner.png)](https://github.com/Luvlore)
+[![banner](./banner.png)](https://github.com/seu-usuario)
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -33,17 +33,17 @@
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Olá! Meu nome é Bruna Luchini</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá! Meu nome é Bruna Luchini</h1></img>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/Luvlore">
     <img
       align="center"
       height="150em"
       src="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/Luvlore">
     <img
       align="center"
       height="150em"
@@ -54,7 +54,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/luvlore">
+  <a href="https://github.com/Luvlore">
     <img
       align="center"
       src="https://github-profile-trophy.vercel.app/?username=LuanderFarias&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
@@ -78,16 +78,11 @@
       src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
     />
   </a>
-  <a href="https://discord.gg/seu-server">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
-  </a>
   <a href="https://www.linkedin.com/in/bruna-luchini-5aa7a6185/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
 </p>
-<h5 align="center">Seu @Luvlore</h5>
+<h5 align="center">@Luvlore</h5>
 </details>
