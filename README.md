@@ -34,6 +34,11 @@
          align="center"
          src="https://img.shields.io/badge/LinkedIn-020230?style=for-the-badge&logo=linkedin&logoColor=E48872"
   </a>
+    <a href="https://luvlore.github.io/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Portifólio-020230?style=for-the-badge&logo=github&logoColor=E48872"
+  </a>
 <h4 align="center">
 <details>
 
