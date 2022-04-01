@@ -17,24 +17,19 @@
   💌 Caso queira entrar em contato comigo, siga os links abaixo
 </p>
 
-  <a href="https://instagram.com/seu-usuario/">
+  <a href="https://instagram.com/afallrea_/">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-020230?style=for-the-badge&logo=instagram&logoColor=E48872"
     />
   </a>
-  <a href="https://twitter.com/seu-usuario">
+  <a href="https://twitter.com/afallrea">
     <img
       align="center"
       src="https://img.shields.io/badge/Twitter-020230?style=for-the-badge&logo=twitter&logoColor=E48872"
     />
   </a>
-  <a href="https://discord.gg/seu-server">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Discord-020230?style=for-the-badge&logo=discord&logoColor=E48872">
-  </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/">
+  <a href="https://www.linkedin.com/in/bruna-luchini-5aa7a6185/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-020230?style=for-the-badge&logo=linkedin&logoColor=E48872"
