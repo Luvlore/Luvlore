@@ -40,7 +40,7 @@
   </a>
 <h4 align="center">
 <details>
-
+<br>
 <p align="center">
   <a href="https://github.com/Luvlore">
     <img
