@@ -16,7 +16,6 @@
 <p align="left">
   💌 Caso queira entrar em contato comigo, siga os links abaixo
 </p>
-<p>
   <a href="https://instagram.com/afallrea_/">
     <img
       align="center"
@@ -34,14 +33,11 @@
          align="center"
          src="https://img.shields.io/badge/LinkedIn-020230?style=for-the-badge&logo=linkedin&logoColor=E48872"
   </a>
-</p>
-<p>
     <a href="https://luvlore.github.io/">
     <img
          align="center"
          src="https://img.shields.io/badge/Portifólio-020230?style=for-the-badge&logo=github&logoColor=E48872"
   </a>
-</p>
 <h4 align="center">
 <details>
 
