@@ -19,13 +19,13 @@
 
 <p align="left">
   <a href="mailto:brunaluchini22@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://criarmeulink.com.br/u/1648821392" /></a>
 
   <a href="https://www.linkedin.com/in/bruna-luchini-5aa7a6185/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://twitter.com/afallrea" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=3b5998&logo=twitter&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/afallrea"/></a>
 
   <a href="https://www.instagram.com/afallrea_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
