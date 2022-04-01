@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá, eu me chamo Bruna Luchini e sou uma futura <strong>Desenvolvedora de Desenvolvimento Web</strong>.<br>
+  Atualmente estou fazendo cursos de Desenvolvimento Web na <strong>Trybe</strong> e na <strong>Let's Code</strong>.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>JavaScript, HTML, CSS, Git, NodeJS, Python...</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, Pycharm</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Caso queira entrar em contato comigo, siga os links abaixo
 </p>
 
 <p align="left">
