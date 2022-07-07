@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, eu me chamo Bruna Luchini e sou uma futura <strong>Desenvolvedora Fullstack Web</strong>.<br>
+  Olá, eu me chamo Bruna Luchini e sou uma futura <strong>Desenvolvedora Fullstack</strong>.<br>
   Atualmente estou fazendo cursos de Desenvolvimento Web na <strong>Trybe</strong> e na <strong>Let's Code</strong>.
 </p>
 
