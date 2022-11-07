@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, eu me chamo Bruna Luchini e sou uma futura <strong>Desenvolvedora Fullstack</strong>.<br>
-  Atualmente estou fazendo cursos de Desenvolvimento Web na <strong>Trybe</strong> e na <strong>Let's Code</strong>.
+  Olá, eu me chamo Bruna Luchini e sou uma estudante de <strong>Desenvolvimento Web Fullstack</strong> e <strong>DevOps</strong>.<br>
+  Atualmente estou fazendo cursos de Desenvolvimento Web na <strong>Trybe</strong> e de DevOps pelo programa <strong>Devª</strong> na <strong>Let's Code from Ada</strong> onde também me formei em Desenvolvimento Web através do programa <strong>Vem ser Tech</strong>.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, HTML, CSS, Git, NodeJS, Docker, MySQL, Python...</strong>
+  🦄 Tecnologias: <strong>Windows, Unix, Java, JavaScript, TypeScript, Python, ReactJS, HTML, CSS, Git, NodeJS, Docker, MySQL, MongoDB, PostgreSQL, AWS...</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Pycharm</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, PyCharm, IntelliJ...</strong>
 </p>
 
 <p align="left">
