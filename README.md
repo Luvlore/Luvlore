@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>Windows, Unix, Java, JavaScript, TypeScript, Python, ReactJS, HTML, CSS, Git, NodeJS, Docker, MySQL, MongoDB, PostgreSQL, AWS...</strong>
+  🦄 Tecnologias: <strong>Windows, Unix, Java, JavaScript, TypeScript, Python, ReactJS, HTML, CSS, Git, NodeJS, Docker, MySQL, MongoDB, PostgreSQL, Sequelize, Prisma, AWS...</strong>
 </p>
 
 <p align="left">
