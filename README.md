@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 <p align="left"> 
   <h1>Olá, eu me chamo Bruna Luchini...</h1>
 </p>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   E sou uma estudante de <strong>Desenvolvimento Web Fullstack</strong> e <strong>DevOps</strong>.<br>
