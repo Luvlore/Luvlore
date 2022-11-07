@@ -1,7 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, eu me chamo Bruna Luchini e sou uma estudante de <strong>Desenvolvimento Web Fullstack</strong> e <strong>DevOps</strong>.<br>
+  <h1>Olá, eu me chamo Bruna Luchini...</h1>
+</p>
+
+<p align="left"> 
+  E sou uma estudante de <strong>Desenvolvimento Web Fullstack</strong> e <strong>DevOps</strong>.<br>
   Atualmente estou fazendo cursos de Desenvolvimento Web na <strong>Trybe</strong> e de DevOps pelo programa <strong>Devª</strong> na <strong>Let's Code from Ada</strong> onde também me formei em Desenvolvimento Web através do programa <strong>Vem ser Tech</strong>.
 </p>
 
