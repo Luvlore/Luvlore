@@ -8,7 +8,7 @@
   E sou uma <strong>Desenvolvedora Web Fullstack</strong>.
   <br>
   <br>
-  Atualmente trabalho com Desenvolvimento Web na <a href='https://github.com/somosprte' target="_blank">@somosprte</a> como desenvolvedora fullstack, atuando com tecnologias tanto de frontend como de backend, como por exemplo: React, Node, TypeScript, Docker, Bancos de dados relacionais e não relacionais, como Postgres e MongoDB.
+  Atualmente trabalho com Desenvolvimento Web, atuando com tecnologias tanto de frontend como de backend, como por exemplo: React, Node, TypeScript, Docker, Bancos de dados relacionais e não relacionais, como Postgres e MongoDB.
 </p>
 
 <p align="left">
